@@ -1,6 +1,6 @@
 {
   "development": {
-    "url": "postgres://brlcrdyj:Qt_8UOhTAGBcverABcblZ3uDALB5B2L2@tyke.db.elephantsql.com/brlcrdyj"
+    "url": "postgres://sdballsj:atYhBGb8TFOuCBVnZR8qJYiQX1NeW2Mj@tyke.db.elephantsql.com/sdballsj"
   },
   "test": {
     "username": "root",
